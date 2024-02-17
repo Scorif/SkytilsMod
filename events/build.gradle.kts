@@ -32,6 +32,7 @@ dependencies {
 
 java.toolchain {
     languageVersion = JavaLanguageVersion.of(8)
+    daskidasiodsouadhouasd
 }
 
 loom.mixin {
